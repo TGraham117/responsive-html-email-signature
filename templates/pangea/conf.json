@@ -1,0 +1,11 @@
+{
+  "id": "pangea",
+  "signature": "Rachael Harrison",
+  "name": "Marketing Director",
+  "contactMain": "<a href='tel:02039071991'><span>020 3907 1991</span></a>",
+  "contactMail": "rachael.harrison@pangea-ts.com",
+  "slogan": "<a href='https://www.pangea-ts.com/'><span>pangea-ts.com</span></a>",
+  "logoUrl": "/assets/pangea.png",
+  "logoAlt": "pangea logo",
+  "website": "https://www.pangea-ts.com/"
+}
