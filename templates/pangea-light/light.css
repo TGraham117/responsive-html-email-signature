@@ -57,7 +57,7 @@ tr {
 }
 
 .gray-hr hr {
-  border-bottom: 1px solid #ffa40d;
+  border-bottom: 1px solid #de7c00;
   border-top: none;
   margin-bottom: 20px;
   margin-top: 20px;
@@ -97,14 +97,14 @@ a {
  * ================
  */
 .footer {
-  background-color: #02426d;
+  background-color: #f2f6f8;
   padding: 20px 20px 0px 20px;
-  color: #fff;
+  color: #02426d;
   border-top: 4px solid #ccd9e2;
 }
 
 .footer a {
-  color: #fff;
+  color: #02426d;
 }
 
 .footer--simple {
@@ -120,7 +120,7 @@ a {
 .footer__main__signature {
   font-size: 16px;
   line-height: 24px;
-  color: #fff;
+  color: #02426d;
   /* @todo gulp-inline-css doesn't parse align; it needs to be duplicated in the HTML template */
   align: left;
 }
@@ -135,14 +135,14 @@ a {
 .footer__main__col1__td {
   font-size: 14px;
   line-height: 21px;
-  color: #ccd9e2;
+  color: #02426d;
   /* @todo gulp-inline-css doesn't parse align; it needs to be duplicated in the HTML template */
   align: left;
 }
 
 .footer__main a > span {
   /* Revert apple blue-link style. */
-  color: #fff !important;
+  color: #02426d !important;
   text-decoration: none !important;
 }
 
@@ -155,7 +155,7 @@ a {
 .footer__main__col2__td {
   font-size: 14px;
   line-height: 21px;
-  color: #fff;
+  color: #02426d;
   /* @todo gulp-inline-css doesn't parse align; it needs to be duplicated in the HTML template */
   align: right;
 }
