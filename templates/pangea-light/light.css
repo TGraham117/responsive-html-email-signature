@@ -168,3 +168,9 @@ a {
   max-height: 38px;
   height: auto;
 }
+
+.gdpr__text {
+  font-size: 10px;
+  line-height: 16px;
+  margin-bottom: 30px;
+}
