@@ -50,20 +50,34 @@ tr {
 
 .gray-hr {
   /* 100% width light grey line; props are actually contained by inner elements atm. */
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .gray-hr td {
   width: 100%;
 }
 
-.gray-hr hr {
+/* .gray-hr hr {
   border-bottom: 1px solid #de7c00;
   border-top: none;
   margin-bottom: 20px;
   margin-top: 20px;
   color: transparent;
   background: transparent;
-}
+} */
+
+/* .grey-hr-td {
+  background: none;
+  border: solid 1px #de7c00;
+  border-width: 1px 0 0 0;
+  height: 1px;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+} */
 
 a {
   text-decoration: none;
@@ -126,7 +140,7 @@ a {
 }
 
 .footer__main__col1 {
-  width: 70%;
+  width: 50%;
   margin-bottom: 30px;
   /* @todo gulp-inline-css doesn't parse align; it needs to be duplicated in the HTML template */
   align: left;
@@ -147,7 +161,7 @@ a {
 }
 
 .footer__main__col2 {
-  width: 30%;
+  width: 50%;
   /* @todo gulp-inline-css doesn't parse align; it needs to be duplicated in the HTML template */
   align: right;
 }
