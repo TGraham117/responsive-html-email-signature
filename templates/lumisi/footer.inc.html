@@ -1,0 +1,63 @@
+<td class="footer">
+  <table class="rbcc footer__main">
+    <tr>
+      <td>
+        <table class="rbcc top" align="left">
+          <td align="left">
+            <strong><!-- @echo name --></strong><br />
+            <!-- @echo jobTitle -->
+          </td>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="rbcc footer__main__col1 mt-8" align="left">
+          <td class="footer__main__col1__td" align="left">
+            <!-- @echo lumisiAddress -->
+            <!-- <a href="mailto:<!-- @echo contactMail -->" target="_blank"><!-- @echo contactMail --></a> -->
+            <br />
+            <!-- @echo contactPhone -->
+          </td>
+        </table>
+    
+        <table class="rbcc footer__main__col2" align="right">
+          <td class="footer__main__col2__td logo" align="right">
+            <a rel="noopener" target="_blank" href="<!-- @echo website -->">
+              <img src="<!-- @echo logoUrlLight -->" alt="<!-- @echo logoAlt -->" class="footer__main__col2__td__img light-img" width="96" height="62" />
+              <!-- The following Dark Mode logo image is hidden with MSO conditional code and inline CSS, but will be revealed once Dark Mode is triggered -->       
+                 <!--[if !mso]><! -->
+                 <div class="footer__main__col2__td__img dark-img" style="display:none; overflow:hidden; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;">           
+                  <img src="<!-- @echo logoUrlDark -->" width="96" height="62" alt="<!-- @echo logoAlt -->" />     
+                </div>
+                <!--<![endif]-->   
+              </a> 
+              <!-- end HEADER_LOGO --> 
+
+            </a>
+          </td>
+        </table>
+      </td>
+    </tr>
+    <tr class="orange-hr">
+      <td><hr class="orange-hr" /></td>
+    </tr>
+    <tr>
+      <table class="rbcc footer__main__col1" align="left">
+        <td class="footer__main__col1__td" align="left">
+          <strong>
+            <!-- @echo website -->
+          </strong>
+            <br />
+          <!-- @echo socialMedia -->
+        </td>
+      </table>
+
+      <table class="rbcc footer__main__col2" align="right">
+        <td class="footer__main__col2__td terms" align="right">
+          <!-- @echo copyright -->
+        </td>
+      </table>
+    </tr>
+  </table>
+</td>
