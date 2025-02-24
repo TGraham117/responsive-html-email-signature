@@ -1,0 +1,21 @@
+{
+  "id": "Isabella",
+  "name": "Isabella Mark",
+  "jobTitle": "Vice President, Head of Global Marketing",
+  "welcome": "Hi there,",
+  "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+  "contactPhone": "<a href='https://www.confluence.com/'><strong>Confluence</strong></a><br /><strong>Tel. </strong><a href='tel:+12036628413'><span>+1 (203) 662 8413</span></a> <span class='spacer'>|</span> <strong>Mob. </strong><a href='tel:+19173616962'><span>+1 (917) 361 6962</span></a>",
+  "contactMail": "imark@confluence.com",
+  "confluenceAddress": "<a href='https://maps.app.goo.gl/VjDCWRpVNuPAYZcJA'><span><strong>HQ</strong>: Nova Tower One, One Allegheny Square, Suite 700, Pittsburgh, PA 15212-5346, USA</span></a>",
+  "logoUrlDark": "https://filedn.eu/lzlKRTrPVW1LRl27B9LCvum/Confluence/Confluence%20Email%20Footer/dark-mode.png",
+  "logoUrlLight": "https://filedn.eu/lzlKRTrPVW1LRl27B9LCvum/Confluence/Confluence%20Email%20Footer/Confluence-Expect-It-logo.png",
+  "linkedinIcon": "https://filedn.eu/lzlKRTrPVW1LRl27B9LCvum/Confluence/Confluence%20Email%20Footer/linkedin-scoial-icon-confluence.png",
+  "twitterIcon": "https://filedn.eu/lzlKRTrPVW1LRl27B9LCvum/Confluence/Confluence%20Email%20Footer/twitter-social-icon-confluence.png",
+  "logoAlt": "Confluence logo",
+  "linkedinAlt": "Linkedin Icon",
+  "twitterAlt": "Twitter Icon",
+  "website": "https://www.confluence.com/",
+  "linkedinLink": "https://www.linkedin.com/company/confluence-technologies/",
+  "twitterLink": "https://x.com/ConfluenceTech/",
+  "disclaimer": "CONFIDENTIALITY NOTE: The information contained in this transmission is intended only for the use of the individual or entity named above and may contain information that is privileged and confidential. If the reader of this message is not the intended recipient or the employee or agent responsible for delivering this transmission to the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited. If you have received this transmission in error, please reply immediately to the sender that the communication was received in error and then immediately delete it and all of its attachments, without retaining any hard or soft copies of same. Thank you."
+}

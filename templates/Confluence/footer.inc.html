@@ -1,0 +1,82 @@
+<td class="footer">
+  <table class="rbcc footer__main">
+    <tr>
+      <td>
+        <table class="rbcc top" align="left">
+          <td align="left">
+            <strong><!-- @echo name --></strong><br />
+            <!-- @echo jobTitle -->
+          </td>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="rbcc footer__main__col1 mt-8 width-100" align="left">
+          <td class="footer__main__col1__td" align="left">
+            <!-- @echo contactPhone -->
+            </br>
+            <!-- @echo confluenceAddress -->
+            <!-- <a href="mailto:<!-- @echo contactMail -->" target="_blank"><!-- @echo contactMail --></a> -->
+          </td>
+        </table>
+      </td>
+    </tr>
+
+    <tr>
+      <td>
+        <table class="rbcc footer__main__col1 mt-24" align="left">
+          <td class="footer__main__col1__td logo" align="left">
+            <a rel="noopener" target="_blank" href="<!-- @echo website -->">
+              <img src="<!-- @echo logoUrlLight -->" alt="<!-- @echo logoAlt -->" class="footer__main__col1__td__img light-img" width="316" height="32" />
+              <!-- The following Dark Mode logo image is hidden with MSO conditional code and inline CSS, but will be revealed once Dark Mode is triggered -->       
+                 <!--[if !mso]><! -->
+                 <div class="footer__main__col1__td__img dark-img" style="display:none; overflow:hidden; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;">           
+                  <img src="<!-- @echo logoUrlDark -->" width="316" height="32" alt="<!-- @echo logoAlt -->" />     
+                </div>
+                <!--<![endif]-->   
+              </a> 
+              <!-- end HEADER_LOGO --> 
+
+            </a>
+          </td>
+        </table>
+
+        <table class="rbcc footer__main__col2 mt-16 width-auto" align="right">
+          <td class="footer__main__col2__td" align="right">
+            <a class="social-container" href="<!-- @echo linkedinLink -->" target="_blank" >
+              <img class="footer__main__col2__td__img" width="32" height="32" src="<!-- @echo linkedinIcon -->" alt="<!-- @echo linkedinAlt --> " />
+            </a>
+            <a class="social-container" href="<!-- @echo linkedinLink -->" target="_blank" >
+              <img class="footer__main__col2__td__img" width="32" height="32" src="<!-- @echo twitterIcon -->" alt="<!-- @echo twitterAlt --> " />
+            </a>
+          </td>
+        </table>
+      </td>
+    </tr>
+
+    <tr class="blue-hr">
+      <td>
+        <hr class="blue-hr" />
+      </td>
+    </tr>
+
+     <!--[if !mso]><! -->
+    <tr class="white-hr" style="display: none;">
+      <td>
+        <hr class="white-hr" />
+      </td>
+    </tr>
+      <!--[endif]-->
+
+    <tr>
+      <table class="rbcc footer__main__col1 width-100" align="left">
+        <td class="footer__main__col1__td" align="left">
+          <span>
+            <!-- @echo disclaimer -->
+          </span>
+        </td>
+      </table>
+    </tr>
+  </table>
+</td>

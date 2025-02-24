@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <!--Set the initial scale of the email.-->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--Help character display properly.-->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <!--Force Outlook clients to render with a better MS engine.-->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <!--Help prevent blue links and autolinking-->
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
+    <!--prevent Apple from reformatting and zooming messages.-->
+    <meta name="x-apple-disable-message-reformatting" />
+
+    <!--target dark mode-->
+    <meta name="color-scheme" content="light dark" />
+    <meta name="supported-color-schemes" content="light dark" />
+
+    <!-- Allow for better image rendering on Windows hi-DPI displays. -->
+    <!--[if mso]>
+      <noscript>
+        <xml>
+          <o:OfficeDocumentSettings>
+            <o:AllowPNG />
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+          </o:OfficeDocumentSettings>
+        </xml>
+      </noscript>
+    <![endif]-->
+
+    <!-- Inject stylesheets after they are processed with LESS, SASS or postcss. -->
+    <!-- @echo stylesheets -->
+
+    <style type="text/css">
+      @media (prefers-color-scheme: dark) {
+        /* Shows Dark Mode-Only Content, Like Images */
+        .dark-img {
+          display: block !important;
+          width: auto !important;
+          overflow: visible !important;
+          float: none !important;
+          max-height: inherit !important;
+          max-width: inherit !important;
+          line-height: auto !important;
+          margin-top: 0px !important;
+          visibility: inherit !important;
+        } /* Hides Light Mode-Only Content, Like Images */
+        .light-img {
+          display: none;
+          display: none !important;
+        } /* Custom Dark Mode Background Color */
+        .darkmode {
+          background-color: #162731 !important;
+        } /* Custom Dark Mode Font Colors */
+        h1,
+        h2,
+        p,
+        span,
+        a,
+        b {
+          color: #ffffff !important;
+        } /* Custom Dark Mode Text Link Color */
+        .link,
+        .footer,
+        .footer a,
+        .footer__main__col1__td,
+        .footer__main a > span,
+        .footer__main__col2__td {
+          color: #ffffff !important;
+        }
+
+        /* Custom Dark Mode HR */
+
+        .blue-hr{
+          display: none;
+          display: none !important;
+        }
+
+        .white-hr{
+          display:block !important;
+        }
+
+        .white-hr td {
+          width: 100%;
+          display: block;
+        }
+
+        .white-hr hr {
+          border-bottom: 1px solid #A2AAB6;
+          border-top: none;
+          margin-bottom: 16px;
+          margin-top: 16px;
+          color: transparent;
+          background: transparent;
+        }
+      }
+    </style>
+
+    <style type="text/css">
+      /* Ideally, this would be part of a linked CSS file. @see https://github.com/fadeit/responsive-html-email-signature/issues/15 */
+
+      /*
+      * ================
+      * 4. Basic responsive stuff.
+      * ================
+      */
+      @media only screen and (max-width: 480px) {
+        .footer td {
+          font-size: 12px !important;
+        }
+
+        .footer__main__col1 {
+          width: 100% !important;
+        }
+
+        .width-auto{
+          width: auto!important;
+        }
+
+        .footer__main__col2 {
+          width: 100% !important;
+        }
+
+        .footer__main__col2__td {
+          text-align: left;
+          padding-top: 8px;
+        }
+
+        .footer__main__col2__td.logo {
+          padding-top: 24px;
+        }
+
+        .footer__main__col2__td__img {
+          
+        }
+
+        .orange-hr hr {
+          margin-bottom: 16px !important;
+          margin-top: 16px !important;
+        }
+      }
+    </style>
+  </head>
+</html>
