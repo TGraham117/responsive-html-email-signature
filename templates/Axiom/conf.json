@@ -1,0 +1,21 @@
+{
+  "id": "Rachel",
+  "name": "Rachael Harrison",
+  "jobTitle": "Marketing Director",
+  "welcome": "Hi there,",
+  "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+  "contactPhone": "<a href='https://axiom-ips.com/'><strong>Axiom</strong></a><br /><strong>Tel. </strong><a href='tel:+4402031427811'><span>+44 (0) 203 142 7811</span></a>",
+  "contactMail": "solutions@axiom-ips.com",
+  "confluenceAddress": "<a href='https://maps.app.goo.gl/ucx32Lh8JyTht3hr6'><span><strong>HQ</strong>: 212 New King's Road, Hammersmith and Fulham, London, SW6 3JA, United Kingdom</span></a>",
+  "logoUrlDark": "/assets/dark-mode.png",
+  "logoUrlLight": "/assets/light-mode.png",
+  "linkedinIcon": "/assets/linkedin-icon.png",
+  "twitterIcon": "/assets/twitter-icon.png",
+  "logoAlt": "Axiom logo",
+  "linkedinAlt": "Linkedin Icon",
+  "twitterAlt": "Twitter Icon",
+  "website": "https://axiom-ips.com/",
+  "linkedinLink": "https://www.linkedin.com/company/axiom-ips/",
+  "twitterLink": "#",
+  "disclaimer": "© 2025 Axiom Integrated Project Solutions"
+}
