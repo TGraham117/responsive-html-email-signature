@@ -1,33 +1,34 @@
-[{
-  "id": "Jordan",
-  "name": "Jordan Clark",
-  "jobTitle": "Web Designer & Developer",
-  "welcome": "Hi there,",
-  "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-  "contactPhone": "Main: <a href='tel:+441244304030'><span>+44 (0) 1244 30 40 30</span></a> <span class='spacer'>|</span> Mobile: <a href='tel:+447807502595'><span>+44 (0) 7807 502 595</span></a>",
-  "contactMail": "jordan@lumisi.com",
-  "lumisiAddress": "<a href='https://maps.app.goo.gl/cbCyYGtLCvhuGM4eA'><span>Lumisi Ltd. Bank Farm Buildings, <br />Chester Road, Aldford, Chester CH3 6HJ</span></a>",
-  "logoUrlDark": "/assets/dark-mode.png",
-  "logoUrlLight": "/assets/light-mode.png",
-  "logoAlt": "Lumisi logo",
-  "website": "<a href='https://lumisi.com' target='_blank'><span>Lumisi.com</span></a>",
-  "socialMedia": "<a href='#' target='_blank'><span>Facebook</span></a> <span class='spacer'>|</span> <a href='#' target='_blank'><span>Twitter/X</span></a> <span class='spacer'>|</span> <a href='#' target='_blank'><span>LinkedIn</span></a>",
-  "copyright": "Lumisi Terms & Conditions Apply <br />Lumisi Ltd. Copyright © 2025"
-},
-{
-  "id": "Tom",
-  "name": "Tom Graham",
-  "jobTitle": "Digital Operations Specialist",
-  "welcome": "Hi there,",
-  "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-  "contactPhone": "Main: <a href='tel:+441244304030'><span>+44 (0) 1244 30 40 30</span></a> <span class='spacer'>|</span> Mobile: <a href='tel:+447807502595'><span>+44 (0) 7807 502 595</span></a>",
-  "contactMail": "jordan@lumisi.com",
-  "lumisiAddress": "<a href='https://maps.app.goo.gl/cbCyYGtLCvhuGM4eA'><span>Lumisi Ltd. Bank Farm Buildings, <br />Chester Road, Aldford, Chester CH3 6HJ</span></a>",
-  "logoUrlDark": "/assets/dark-mode.png",
-  "logoUrlLight": "/assets/light-mode.png",
-  "logoAlt": "Lumisi logo",
-  "website": "<a href='https://lumisi.com' target='_blank'><span>Lumisi.com</span></a>",
-  "socialMedia": "<a href='#' target='_blank'><span>Facebook</span></a> <span class='spacer'>|</span> <a href='#' target='_blank'><span>Twitter/X</span></a> <span class='spacer'>|</span> <a href='#' target='_blank'><span>LinkedIn</span></a>",
-  "copyright": "Lumisi Terms & Conditions Apply <br />Lumisi Ltd. Copyright © 2025"
-}
+[
+  {
+    "id": "Jordan",
+    "name": "Jordan Clark",
+    "jobTitle": "Web Designer & Developer",
+    "welcome": "Hi there,",
+    "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+    "contactPhone": "Main: <a href='tel:+441244304030'><span>+44 (0) 1244 30 40 30</span></a> <span class='spacer'>|</span> Mobile: <a href='tel:+447807502595'><span>+44 (0) 7807 502 595</span></a>",
+    "contactMail": "jordan@lumisi.com",
+    "lumisiAddress": "<a href='https://maps.app.goo.gl/cbCyYGtLCvhuGM4eA'><span>Lumisi Ltd. Bank Farm Buildings, <br />Chester Road, Aldford, Chester CH3 6HJ</span></a>",
+    "logoUrlDark": "/assets/dark-mode.png",
+    "logoUrlLight": "/assets/light-mode.png",
+    "logoAlt": "Lumisi logo",
+    "website": "<a href='https://lumisi.com' target='_blank'><span>Lumisi.com</span></a>",
+    "socialMedia": "<a href='https://www.linkedin.com/company/lumisi/' target='_blank'><span>LinkedIn</span></a> <span class='spacer'>|</span> <a href='https://lumisibrandhub.com/' target='_blank'><span>Brand Hub</span></a>",
+    "copyright": "Lumisi Terms & Conditions Apply <br />Lumisi Ltd. Copyright © 2025"
+  },
+  {
+    "id": "Tom",
+    "name": "Tom Graham",
+    "jobTitle": "Digital Operations Specialist",
+    "welcome": "Hi there,",
+    "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+    "contactPhone": "Main: <a href='tel:+441244304030'><span>+44 (0) 1244 30 40 30</span></a> <span class='spacer'>|</span> Mobile: <a href='tel:+447824811879'><span>+44 (0) 7824 811 879</span></a>",
+    "contactMail": "tom@lumisi.com",
+    "lumisiAddress": "<a href='https://maps.app.goo.gl/cbCyYGtLCvhuGM4eA'><span>Lumisi Ltd. Bank Farm Buildings, <br />Chester Road, Aldford, Chester CH3 6HJ</span></a>",
+    "logoUrlDark": "/assets/dark-mode.png",
+    "logoUrlLight": "/assets/light-mode.png",
+    "logoAlt": "Lumisi logo",
+    "website": "<a href='https://lumisi.com' target='_blank'><span>Lumisi.com</span></a>",
+    "socialMedia": "<a href='https://www.linkedin.com/company/lumisi/' target='_blank'><span>LinkedIn</span></a> <span class='spacer'>|</span> <a href='https://lumisibrandhub.com/' target='_blank'><span>Brand Hub</span></a>",
+    "copyright": "Lumisi Terms & Conditions Apply <br />Lumisi Ltd. Copyright © 2025"
+  }
 ]
