@@ -1,11 +1,11 @@
 {
   "id": "Rachel",
-  "name": "Rachael Harrison",
-  "jobTitle": "Marketing Director",
+  "name": "Amarveer Singh Pannu",
+  "jobTitle": "Director",
   "welcome": "Hi there,",
   "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
-  "contactPhone": "<a href='https://axiom-ips.com/'><strong>Axiom</strong></a><br /><strong>Tel. </strong><a href='tel:+4402031427811'><span>+44 (0) 203 142 7811</span></a>",
-  "contactMail": "solutions@axiom-ips.com",
+  "contactPhone": "<a style='text-decoration: underline;' href='https://axiom-ips.com/'><strong>Axiom</strong></a><br /><strong>Tel. </strong><a href='tel:+4402079611670'><span>+44 (0) 207 961 1670</span></a> <span class='spacer'>|</span> <a href='tel:+4407903773829'><span>+44 (0) 790 377 3829</span></a> <span class='spacer'>|</span> <a href='tel:+490215299036980'><span>+49 (0) 2152 9903 6980</span></a>",
+  "contactMail": "<a href='mailto:asp@axiom-ips.com'>asp@axiom-ips.com</a>",
   "confluenceAddress": "<a href='https://maps.app.goo.gl/ucx32Lh8JyTht3hr6'><span><strong>HQ</strong>: 212 New King's Road, Hammersmith and Fulham, London, SW6 3JA, United Kingdom</span></a>",
   "logoUrlDark": "/assets/dark-mode.png",
   "logoUrlLight": "/assets/light-mode.png",
@@ -17,5 +17,5 @@
   "website": "https://axiom-ips.com/",
   "linkedinLink": "https://www.linkedin.com/company/axiom-ips/",
   "twitterLink": "#",
-  "disclaimer": "© 2025 Axiom Integrated Project Solutions"
+  "disclaimer": "<p>This email and any files transmitted with it are confidential and are intended solely for the use of the addressee. If you are not the intended recipient, then you are requested to notify us by return email and destroy any copies made. Copying, forwarding, printing or disseminating any of this email and any file attachments without permission is strictly prohibited. Any views expressed in this message are those of the individual sender and may not necessarily reflect the views of Axiom Integrated Project Solutions. Axiom Integrated Project Solutions is a trading name of Pangea Resourcing Limited. Company number: 07027446. Our privacy policy can be viewed <a href='#' target='_blank' style='text-decoration: underline;'>here</a>.</p>"
 }
