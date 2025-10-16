@@ -1,0 +1,18 @@
+{
+  "id": "Edward",
+  "name": "Edward Stace",
+  "jobTitle": "Director",
+  "welcome": "Hi there,",
+  "introParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor.",
+  "contactPhone": "<a style='text-decoration: underline;' href='https://aphexsolutions.com/'><strong>Aphex Solutions</strong></a><br /><strong>Tel. </strong><a href='tel:01518085398'><span> 0151 808 5398</span></a>",
+  "contactMail": "<a href='mailto:asp@axiom-ips.com'>asp@axiom-ips.com</a>",
+  "confluenceAddress": "<span><strong>HQ</strong>: Mechanics House, 12 Chester Road, Pentre, Deeside, Flintshire, Wales, CH5 2AA</span>",
+  "logoUrlDark": "/assets/dark-mode.png",
+  "logoUrlLight": "/assets/light-mode.png",
+  "linkedinIcon": "/assets/linkedin-icon.png",
+  "logoAlt": "Aphex Solutions logo",
+  "linkedinAlt": "Linkedin Icon",
+  "website": "https://aphexsolutions.com/",
+  "linkedinLink": "https://www.linkedin.com/company/aphex-solutions-limited/",
+  "disclaimer": "<p>Aphex Solutions Limited is registered at Companies House, number 15829964 and is directly Authorised and Regulated by the Financial Conduct Authority. Firm Ref No 1024619, and ICO Registration Number ZB964603.<br><span>Aphex Solutions Limited is a credit broker, and we work with a panel of lenders whose particulars will be supplied upon request, to find a potentially suitable facility.</span><br><span>We will receive commission from lenders. Different lenders pay different amounts depending on different commission models. For transparency we work with the following commission models: percentage of the amount you borrow. Further details of the commission model, calculation and amount will be disclosed to you throughout your customer journey.</span><br><span>Aphex Solutions is a trading style of Aphex Solutions Limited, registered at Mechanics House, 12 Chester Road, Pentre, CH5 2AA, and company registration number is 15829964.</span></p>"
+}
