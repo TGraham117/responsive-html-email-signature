@@ -25,18 +25,43 @@
 
     <tr>
       <td>
+
+        <!--[if mso]>
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+          <tr><td width="60%" valign="top"><![endif]-->
+
         <table class="rbcc footer__main__col1 mt-16" align="left">
           <td class="footer__main__col1__td logo" align="left">
-              <img src="<!-- @echo logoUrlLight -->" alt="<!-- @echo logoAlt -->" class="footer__main__col1__td__img light-img" width="232" height="auto" />
+            <a rel="noopener" target="_blank" href="<!-- @echo website -->">
+              <img src="<!-- @echo logoUrlLight -->" alt="<!-- @echo logoAlt -->" class="footer__main__col1__td__img light-img" width="auto" height="275" />
               <!-- The following Dark Mode logo image is hidden with MSO conditional code and inline CSS, but will be revealed once Dark Mode is triggered -->       
                  <!--[if !mso]><! -->
                  <div class="footer__main__col1__td__img dark-img" style="display:none; overflow:hidden; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden;">           
-                  <img src="<!-- @echo logoUrlDark -->" width="232" height="auto" alt="<!-- @echo logoAlt -->" />     
+                  <img src="<!-- @echo logoUrlDark -->" width="auto" height="275" alt="<!-- @echo logoAlt -->" />     
                 </div>
                 <!--<![endif]-->   
               <!-- end HEADER_LOGO --> 
+            </a>
           </td>
         </table>
+
+        <!--[if mso]></td><td width="40%" valign="top"><![endif]-->
+    
+        <table class="rbcc footer__main__col2 mt-16" align="right">
+          <td class="footer__main__col2__td logo" align="right">
+            <a rel="noopener" target="_blank" href="<!-- @echo website -->">
+                 <div class="footer__main__col2__td__img">           
+                  <img src="<!-- @echo NACFBLogo -->" width="auto" height="275" alt="<!-- @echo logoAlt -->" />     
+                </div>
+              </a> 
+              <!-- end HEADER_LOGO --> 
+
+            </a>
+          </td>
+        </table>
+
+        <!--[if mso]></td></tr></table><![endif]-->
+
       </td>
     </tr>
 
